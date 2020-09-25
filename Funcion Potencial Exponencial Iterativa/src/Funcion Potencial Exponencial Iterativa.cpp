@@ -7,6 +7,7 @@
 //============================================================================
 
 #include <iostream>
+#include <cstdlib>
 using namespace std;
 
 double power(double base, double exp);
